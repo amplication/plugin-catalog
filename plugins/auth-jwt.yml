@@ -1,4 +1,3 @@
-
 id: auth-jwt
 name: JWT Auth
 description: Add JSON Web Token (JWT) authentication and authorization to your apps
