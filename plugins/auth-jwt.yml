@@ -1,5 +1,6 @@
 
-name: auth-jwt
+id: auth-jwt
+name: JWT Auth
 description: Add JSON Web Token (JWT) authentication and authorization to your apps
 repo: amplication/plugins
 npm: '@amplication/plugin-auth-jwt'
@@ -8,3 +9,5 @@ github: https://github.com/amplication/plugins/tree/main/plugins/auth-jwt
 website: https://github.com/amplication/plugins/tree/main/plugins/auth-jwt
 category: Security
 type: official
+resourceTypes:
+- SERVER
