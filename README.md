@@ -1,1 +1,1 @@
-# Amplicatino Plugin Repository
+# Amplication Plugin Repository
