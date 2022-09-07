@@ -1,0 +1,9 @@
+name: auth-basic
+description: Add basic (username-password) authentication and authorization to your apps
+repo: amplication/plugins
+npm: '@amplication/plugin-auth-basic'
+icon: auth-basic.png
+github: https://github.com/amplication/plugins/tree/main/plugins/auth-basic
+website: https://github.com/amplication/plugins/tree/main/plugins/auth-basic
+category: Security
+type: official

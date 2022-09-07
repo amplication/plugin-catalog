@@ -1,0 +1,10 @@
+
+name: auth-jwt
+description: Add JSON Web Token (JWT) authentication and authorization to your apps
+repo: amplication/plugins
+npm: '@amplication/plugin-auth-jwt'
+icon: auth-jwt.png
+github: https://github.com/amplication/plugins/tree/main/plugins/auth-jwt
+website: https://github.com/amplication/plugins/tree/main/plugins/auth-jwt
+category: Security
+type: official
