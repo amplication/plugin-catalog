@@ -1,1 +1,1 @@
-# Amplication Plugin Repository
+# Amplication Plugin Catalog
