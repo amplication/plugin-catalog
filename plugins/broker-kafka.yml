@@ -1,0 +1,11 @@
+id: broker-kafka
+name: Kafka
+description: Use a Kafka message broker to communicate between your services
+repo: https://github.com/amplication/plugins/tree/master/plugins/broker-kafka
+npm: '@amplication/plugin-broker-kafka'
+icon: kafka.png
+github: https://github.com/amplication/plugins/tree/master/plugins/broker-kafka
+website: https://github.com/amplication/plugins/tree/master/plugins/broker-kafka
+type: official
+categories: [message-broker]
+resourceTypes: [service]
