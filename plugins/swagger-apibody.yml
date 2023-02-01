@@ -1,0 +1,11 @@
+id: swagger-apibody
+name: Swagger ApiBody
+description: Add Description of Routes and Entity properties to the REST-API Documentation..
+repo: amplication/plugins
+npm: '@amplication/plugin-swagger-apibody'
+icon: formatter-prettier.png
+github: https://github.com/amplication/plugins/tree/main/plugins/swagger-apibody
+website: https://github.com/amplication/plugins/tree/main/plugins/swagger-apibody
+type: official
+categories: [documentation]
+resourceTypes: [service]
