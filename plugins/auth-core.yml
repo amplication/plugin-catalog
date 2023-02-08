@@ -1,0 +1,11 @@
+id: auth-core
+name: Auth-core
+description: Add the core functionality for authentication and authorization to your apps
+repo: amplication/plugins
+npm: '@amplication/plugin-auth-core'
+icon: auth-core.png
+github: https://github.com/amplication/plugins/tree/master/plugins/auth-core
+website: https://github.com/amplication/plugins/tree/master/plugins/auth-core
+type: official
+categories: [security]
+resourceTypes: [service]
