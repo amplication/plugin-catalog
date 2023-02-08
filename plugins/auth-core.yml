@@ -1,5 +1,5 @@
 id: auth-core
-name: Auth Core
+name: Auth-core
 description: Add the core functionality for authentication and authorization to your apps
 repo: amplication/plugins
 npm: '@amplication/plugin-auth-core'
