@@ -1,6 +1,6 @@
 id: auth-jwt
-name: JWT Auth
-description: Add JSON Web Token (JWT) authentication and authorization to your apps
+name: JWT Auth Provider
+description: Add JSON Web Token (JWT) authentication and authorization to your service. This plugin must be installed with the “NestJS Auth Module” plugin.
 repo: amplication/plugins
 npm: '@amplication/plugin-auth-jwt'
 icon: auth-jwt.png
