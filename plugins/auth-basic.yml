@@ -1,6 +1,6 @@
 id: auth-basic
-name: Basic Auth
-description: Add basic (username-password) authentication and authorization to your apps
+name: Basic Auth Provider
+description: Add basic (username-password) authentication and authorization to your service. This plugin must be installed with the “NestJS Auth Module” plugin.
 repo: amplication/plugins
 npm: '@amplication/plugin-auth-basic'
 icon: auth-basic.png
