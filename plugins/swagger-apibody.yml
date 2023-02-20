@@ -1,6 +1,6 @@
 id: swagger-apibody
 name: Swagger ApiBody
-description: Add Description of Routes and Entity properties to the REST-API Documentation..
+description: Add NestJS ApiBody Swagger decorator that specifies the structure of the request payload in a RESTful API for create (POST) and update (PUT/PATCH) actions.
 repo: amplication/plugins
 npm: '@amplication/plugin-swagger-apibody'
 icon: formatter-prettier.png
