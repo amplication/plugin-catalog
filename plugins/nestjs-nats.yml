@@ -1,5 +1,5 @@
 id: nestjs-nats
-name: Nestjs NATS integration
+name: Nestjs NATS integration (Beta)
 description: Use a NATS message broker to communicate between your services
 repo: https://github.com/amplication/plugins/tree/master/plugins/nestjs-nats
 npm: "@amplication/plugin-nestjs-nats"
