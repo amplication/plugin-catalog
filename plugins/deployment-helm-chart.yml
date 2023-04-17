@@ -1,4 +1,3 @@
-id: nestjs-nats
 id: deployment-helm-chart
 name: Helm Chart
 description: Adds a Helm Chart for the generated service which can be used for deployment of the application within a Kubernetes cluster
