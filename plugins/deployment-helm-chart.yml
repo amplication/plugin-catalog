@@ -1,0 +1,11 @@
+id: deployment-helm-chart
+name: Helm Chart
+description: Adds a Helm Chart for the generated service which can be used for deployment of the application within a Kubernetes cluster
+repo: https://github.com/amplication/plugins/tree/main/plugins/deployment-helm-chart
+npm: "@amplication/plugin-deployment-helm-chart"
+icon: deployment-helm-chart.png
+github: https://github.com/amplication/plugins/tree/main/plugins/deployment-helm-chart
+website: https://github.com/amplication/plugins/tree/main/plugins/deployment-helm-chart
+type: official
+categories: [deployment]
+resourceTypes: [service]
