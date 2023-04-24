@@ -1,0 +1,11 @@
+id: ci-github-actions
+name: Github Actions
+description: Adds a github actions workflow file which is used to build, test and package the service.
+repo: https://github.com/amplication/plugins/tree/main/plugins/ci-github-actions
+npm: "@amplication/plugin-ci-github-actions"
+icon: ci-github-actions.png
+github: https://github.com/amplication/plugins/tree/main/plugins/ci-github-actions
+website: https://github.com/amplication/plugins/tree/main/plugins/ci-github-actions
+type: official
+categories: [ci]
+resourceTypes: [service]
