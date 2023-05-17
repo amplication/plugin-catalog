@@ -1,0 +1,11 @@
+id: swagger-apibody
+name: Swagger ApiBody
+description: Add NestJS ApiBody Swagger decorator that specifies the structure of the request payload in a RESTful API for create (POST) and update (PUT/PATCH) actions.
+repo: amplication/plugins
+npm: '@amplication/plugin-swagger-apibody'
+icon: swagger-apibody.png
+github: https://github.com/amplication/plugins/tree/main/plugins/swagger-apibody
+website: https://github.com/amplication/plugins/tree/main/plugins/swagger-apibody
+type: official
+categories: [documentation]
+resourceTypes: [service]
