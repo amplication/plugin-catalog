@@ -2,7 +2,7 @@ id: integration-openai
 name: Open AI Integration
 description: This plugin adds the ability to easily use OpenAI API in your service
 repo: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
-npm: "@amplication/plugin-integration-openai"
+npm: "@amplication/plugin-integrate-openai"
 icon: integration-openai.png
 github: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
 website: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
