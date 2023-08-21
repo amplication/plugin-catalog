@@ -1,0 +1,11 @@
+id: broker-nats
+name: NestJS NATS
+description: Use a NATS message broker to communicate between your services
+repo: https://github.com/amplication/plugins/tree/master/plugins/broker-nats
+npm: "@amplication/plugin-broker-nats"
+icon: broker-nats.png
+github: https://github.com/amplication/plugins/tree/master/plugins/broker-nats
+website: https://github.com/amplication/plugins/tree/master/plugins/broker-nats
+type: official
+categories: [message-broker]
+resourceTypes: [service]
