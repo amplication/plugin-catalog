@@ -1,0 +1,11 @@
+id: broker-redis
+name: Redis Message Broker
+description: Use Redis as message broker to communicate between your services
+repo: https://github.com/amplication/plugins/tree/master/plugins/broker-redis]
+npm: "@amplication/plugin-broker-redis"
+icon: broker-redis.png
+github: https://github.com/amplication/plugins/tree/master/plugins/broker-redis
+website: https://github.com/amplication/plugins/tree/master/plugins/broker-redis
+type: official
+categories: [message-broker]
+resourceTypes: [service]
