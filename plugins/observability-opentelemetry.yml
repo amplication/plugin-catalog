@@ -1,0 +1,11 @@
+id: observability-opentelemetry
+name: OpenTelemetry
+description: Allow observability of your NestJS application with OpenTelemetry
+repo: https://github.com/amplication/plugins/tree/master/plugins/observability-opentelemetry
+npm: "@amplication/plugin-observability-opentelemetry"
+icon: observability-opentelemetry.png
+github: https://github.com/amplication/plugins/tree/master/plugins/observability-opentelemetry
+website: https://github.com/amplication/plugins/tree/master/plugins/observability-opentelemetry
+type: official
+categories: [observability]
+resourceTypes: [service]
