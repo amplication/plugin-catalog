@@ -14,3 +14,9 @@ After publishing the plugin to NPM from the GitHub the plugin will not be visibl
 ## Adding a new plugin to the catalog
 
 When adding a new plugin to the catalog, two files must be created in this repository. First a icon to represent the plugin should be created under the `assets/icons/` folder. Second the metadata for the plugin should be provided under the `plugins/` directory.
+
+## Documentation
+
+- [How to create a plugin](https://docs.amplication.com/plugins/how-to-create-plugin/)
+- [How to test a plugin](https://docs.amplication.com/plugins/how-to-test-plugin/)
+- [How to publish a plugin](https://docs.amplication.com/plugins/publish-plugin/)
