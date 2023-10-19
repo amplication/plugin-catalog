@@ -1,6 +1,6 @@
 id: deployment-github-actions-aws-ecs
 name: Github Actions - AWS ECS
-description: Adds a github actions workflow file which is used to build, test and package the service.
+description: Adds a Github Actions workflow file for building and pushing a container image to Amazon Elastic Container Registry. In addition it creates a task definition for deploying the previously built image onto an Amazon Elastic Container Service cluster. It requires infrastructure to deploy on to be present - how to create this infrastructure can be found on GitHub/NPM.
 repo: https://github.com/amplication/plugins/tree/main/plugins/cd-github-actions-aws-ecs
 npm: "@amplication/plugin-deployment-github-actions-aws-ecs"
 icon: deployment-github-actions-aws-ecs.png
