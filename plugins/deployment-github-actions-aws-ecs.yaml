@@ -1,0 +1,11 @@
+id: deployment-github-actions-aws-ecs
+name: Github Actions - AWS ECS
+description: Adds a github actions workflow file which is used to build, test and package the service.
+repo: https://github.com/amplication/plugins/tree/main/plugins/cd-github-actions-aws-ecs
+npm: "@amplication/plugin-deployment-github-actions-aws-ecs"
+icon: deployment-github-actions-aws-ecs.png
+github: https://github.com/amplication/plugins/tree/main/plugins/cd-github-actions-aws-ecs
+website: https://github.com/amplication/plugins/tree/main/plugins/cd-github-actions-aws-ecs
+type: official
+categories: [deployment]
+resourceTypes: [service]
