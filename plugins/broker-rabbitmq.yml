@@ -1,0 +1,11 @@
+id: broker-rabbitmq
+name: NestJS RabbitMQ
+description: Use a RabbitMQ message broker to communicate between your services
+repo: https://github.com/amplication/plugins/tree/master/plugins/broker-rabbitmq
+npm: "@amplication/plugin-broker-rabbitmq"
+icon: broker-rabbitmq.png
+github: https://github.com/amplication/plugins/tree/master/plugins/broker-rabbitmq
+website: https://github.com/amplication/plugins/tree/master/plugins/broker-rabbitmq
+type: official
+categories: [message-broker]
+resourceTypes: [service]
