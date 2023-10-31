@@ -1,0 +1,11 @@
+id: provisioning-terraform-aws-repository-ecr
+name: Terraform - AWS Repository Ecr
+description: Adds terraform code for provisioning Amazon Web Services Elastic Container Registry (ECR) as an addition to the 'core' terraform code base.
+repo: https://github.com/amplication/plugins/tree/main/plugins/provisioning-terraform-aws-repository-ecr
+npm: "@amplication/plugin-provisioning-terraform-aws-repository-ecr"
+icon: provisioning-terraform-aws-repository-ecr.png
+github: https://github.com/amplication/plugins/tree/main/plugins/provisioning-terraform-aws-repository-ecr
+website: https://github.com/amplication/plugins/tree/main/plugins/provisioning-terraform-aws-repository-ecr
+type: official
+categories: [provisioning]
+resourceTypes: [service]
