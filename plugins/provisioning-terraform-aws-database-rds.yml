@@ -1,11 +1,11 @@
 id: provisioning-terraform-aws-database-rds
 name: Terraform - AWS Database RDS
 description: Adds terraform code for provisioning Amazon Web Services Relational Database Service (RDS) as an addition to the 'core' terraform code base.
-repo: https://github.com/amplication/plugins/tree/main/plugins/provisioning-terraform-aws-database-rds
+repo: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-database-rds
 npm: "@amplication/plugin-provisioning-terraform-aws-database-rds"
 icon: provisioning-terraform-aws-database-rds.png
-github: https://github.com/amplication/plugins/tree/main/plugins/provisioning-terraform-aws-database-rds
-website: https://github.com/amplication/plugins/tree/main/plugins/provisioning-terraform-aws-database-rds
+github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-database-rds
+website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-database-rds
 type: official
 categories: [provisioning]
 resourceTypes: [service]
