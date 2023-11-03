@@ -1,5 +1,5 @@
 {
   "yaml.schemas": {
-    "./plugins/schema.json": "plugins/*.yml"
+    "./schema.json": "plugins/*.yml"
   }
 }
