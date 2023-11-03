@@ -1,0 +1,11 @@
+id: auth-auth0
+name: Auth0 Auth Provider
+description: Add Auth0 authentication and authorization to your service. This plugin must be installed with the “NestJS Auth Module” plugin.
+repo: amplication/plugins
+npm: '@amplication/plugin-auth-auth0'
+icon: auth-auth0.png
+github: https://github.com/amplication/plugins/tree/main/plugins/auth-auth0
+website: https://github.com/amplication/plugins/tree/main/plugins/auth-auth0
+type: official
+categories: [security]
+resourceTypes: [service]
