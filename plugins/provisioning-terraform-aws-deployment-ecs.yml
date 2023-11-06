@@ -1,5 +1,5 @@
 id: provisioning-terraform-aws-deployment-ecs
-name: Terraform - AWS Repository ECS
+name: Terraform - AWS Deployment ECS
 description: Adds terraform code for provisioning Amazon Web Services Elastic Container Service (ECS) as an addition to the 'core' terraform code base.
 repo: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-deployment-ecs
 npm: "@amplication/plugin-provisioning-terraform-aws-deployment-ecs"
