@@ -1,0 +1,11 @@
+id: transport-grpc
+name: gRPC API
+description: This plugin adds gRPC endpoints to your generated service
+repo: amplication/plugins
+npm: '@amplication/plugin-transport-grpc'
+icon: transport-grpc.png
+github: https://github.com/amplication/plugins/tree/main/plugins/transport-grpc
+website: https://github.com/amplication/plugins/tree/main/plugins/transport-grpc
+type: official
+categories: [api]
+resourceTypes: [service]
