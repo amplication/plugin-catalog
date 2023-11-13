@@ -1,0 +1,11 @@
+id: auth-supertokens
+name: Supertokens Auth Provider
+description: Add Supertokens authentication to your service. This plugin must be installed with the “NestJS Auth Module” plugin.
+repo: amplication/plugins
+npm: '@amplication/plugin-auth-supertokens'
+icon: auth-supertokens.png
+github: https://github.com/amplication/plugins/tree/main/plugins/auth-supertokens
+website: https://github.com/amplication/plugins/tree/main/plugins/auth-supertokens
+type: official
+categories: [security]
+resourceTypes: [service]
