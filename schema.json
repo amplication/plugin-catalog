@@ -43,7 +43,7 @@
         "type": "array",
         "items": {
           "type": "string",
-          "pattern": "^(cache|ci|database|deployment|documentation|formatter|linter|message-broker|observability|openai|security|api)$"
+          "pattern": "^(cache|ci|database|deployment|documentation|formatter|linter|message-broker|observability|openai|security|api|logger)$"
         }
       },
       "resourceTypes": {

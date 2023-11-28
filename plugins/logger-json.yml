@@ -1,0 +1,11 @@
+id: logger-json
+name: JSON Logger
+description: Replace the default NestJS logger with a JSON structured logger for an easier integration with log management systems.
+repo: amplication/plugins
+npm: '@amplication/plugin-logger-json'
+icon: logger-json.png
+github: https://github.com/amplication/plugins/tree/main/plugins/logger-json
+website: https://github.com/amplication/plugins/tree/main/plugins/logger-json
+type: official
+categories: [logger]
+resourceTypes: [service]
