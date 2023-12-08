@@ -1,0 +1,11 @@
+id: provisioning-terraform-gcp-core
+name: Terraform - GCP Core
+description: Adds terraform code for provisioning Google Cloud Platform core network infrastructure
+repo: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-core
+npm: "@amplication/plugin-provisioning-terraform-gcp-core"
+icon: provisioning-terraform-gcp-core.png
+github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-core
+website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-core
+type: official
+categories: [provisioning]
+resourceTypes: [service]

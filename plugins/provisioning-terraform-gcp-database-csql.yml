@@ -1,0 +1,11 @@
+id: provisioning-terraform-gcp-database-csql
+name: Terraform - GCP Cloud SQL Database
+description: Adds terraform code for provisioning Google Cloud Platform Cloud SQL database.
+repo: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-database-csql
+npm: "@amplication/plugin-provisioning-terraform-gcp-database-csql"
+icon: provisioning-terraform-gcp-database-csql.png
+github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-database-csql
+website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-database-csql
+type: official
+categories: [provisioning]
+resourceTypes: [service]
