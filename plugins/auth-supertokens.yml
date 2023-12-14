@@ -7,5 +7,5 @@ icon: auth-supertokens.png
 github: https://github.com/amplication/plugins/tree/main/plugins/auth-supertokens
 website: https://github.com/amplication/plugins/tree/main/plugins/auth-supertokens
 type: official
-categories: [security]
+categories: [Authentication, Security]
 resourceTypes: [service]

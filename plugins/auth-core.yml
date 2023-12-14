@@ -7,5 +7,5 @@ icon: auth-core.png
 github: https://github.com/amplication/plugins/tree/master/plugins/auth-core
 website: https://github.com/amplication/plugins/tree/master/plugins/auth-core
 type: official
-categories: [core]
+categories: [Authentication, Security]
 resourceTypes: [service]

@@ -7,5 +7,5 @@ icon: deployment-helm-chart.png
 github: https://github.com/amplication/plugins/tree/main/plugins/deployment-helm-chart
 website: https://github.com/amplication/plugins/tree/main/plugins/deployment-helm-chart
 type: official
-categories: [deployment]
+categories: [CI/CD, Kubernetes]
 resourceTypes: [service]
