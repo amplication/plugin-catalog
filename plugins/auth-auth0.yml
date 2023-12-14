@@ -7,5 +7,5 @@ icon: auth-auth0.png
 github: https://github.com/amplication/plugins/tree/main/plugins/auth-auth0
 website: https://github.com/amplication/plugins/tree/main/plugins/auth-auth0
 type: official
-categories: [security]
+categories: [Authentication, Security]
 resourceTypes: [service]

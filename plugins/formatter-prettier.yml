@@ -7,5 +7,5 @@ icon: formatter-prettier.png
 github: https://github.com/amplication/plugins/tree/main/plugins/formatter-prettier
 website: https://github.com/amplication/plugins/tree/main/plugins/formatter-prettier
 type: official
-categories: [formatter]
+categories: [Code styling]
 resourceTypes: [service]

@@ -7,5 +7,5 @@ icon: provisioning-terraform-aws-core.png
 github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-core
 website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-core
 type: official
-categories: [provisioning]
+categories: [CI/CD, AWS]
 resourceTypes: [service]

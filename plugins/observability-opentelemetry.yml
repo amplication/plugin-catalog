@@ -7,5 +7,5 @@ icon: observability-opentelemetry.png
 github: https://github.com/amplication/plugins/tree/master/plugins/observability-opentelemetry
 website: https://github.com/amplication/plugins/tree/master/plugins/observability-opentelemetry
 type: official
-categories: [observability]
+categories: [Observability]
 resourceTypes: [service]

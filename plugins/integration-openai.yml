@@ -7,5 +7,5 @@ icon: integration-openai.png
 github: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
 website: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
 type: official
-categories: [openai]
+categories: [AI]
 resourceTypes: [service]
