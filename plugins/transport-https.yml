@@ -1,0 +1,11 @@
+id: transport-https
+name: HTTPS
+description: This plugin add support for TLS termination at the application level enabling HTTPS communication to the generated service.
+repo: amplication/plugins
+npm: '@amplication/plugin-transport-https'
+icon: transport-https.png
+github: https://github.com/amplication/plugins/tree/main/plugins/transport-https
+website: https://github.com/amplication/plugins/tree/main/plugins/transport-https
+type: official
+categories: [Service communication, API]
+resourceTypes: [service]
