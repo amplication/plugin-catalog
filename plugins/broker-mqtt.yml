@@ -1,0 +1,11 @@
+id: broker-mqtt
+name: MQTT
+description: Use a MQTT message broker to communicate between your services and or devices
+repo: https://github.com/amplication/plugins/tree/master/plugins/broker-mqtt
+npm: '@amplication/plugin-broker-mqtt'
+icon: broker-mqtt.png
+github: https://github.com/amplication/plugins/tree/master/plugins/broker-mqtt
+website: https://github.com/amplication/plugins/tree/master/plugins/broker-mqtt
+type: official
+categories: [Service communication, Message broker]
+resourceTypes: [service]
