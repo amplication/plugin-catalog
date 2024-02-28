@@ -1,0 +1,11 @@
+id: development-github-codespaces
+name: GitHub Codespaces
+description: Adds configurations to allow running the generated service on GitHub Codespaces for a quick development environment
+repo: https://github.com/amplication/plugins/tree/main/plugins/devcontainer-github-codespaces
+npm: "@amplication/plugin-devcontainer-github-codespaces"
+icon: development-github-codespaces.png
+github: https://github.com/amplication/plugins/tree/main/plugins/devcontainer-github-codespaces
+website: https://github.com/amplication/plugins/tree/main/plugins/devcontainer-github-codespaces
+type: official
+categories: [Development]
+resourceTypes: [service]
