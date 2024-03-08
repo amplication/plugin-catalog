@@ -1,0 +1,11 @@
+id: auth-saml
+name: SAML Auth Provider
+description: Add SAML authentication and JSON Web Token (JWT) authorization to your service.
+repo: https://github.com/amplication/plugins/tree/main/plugins/auth-saml
+npm: '@amplication/plugin-auth-saml'
+icon: auth-saml.png
+github: https://github.com/amplication/plugins/tree/main/plugins/auth-saml
+website: https://github.com/amplication/plugins/tree/main/plugins/auth-saml
+type: official
+categories: [Authentication, Security]
+resourceTypes: [service]
