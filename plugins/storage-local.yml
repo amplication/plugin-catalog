@@ -1,0 +1,11 @@
+id: storage-local
+name: Storage Local
+description: Add support for file upload/download into the amplication generated service storing data on local filesystem. This plugin must be installed with the Storage Core” plugin.
+repo: amplication/plugins
+npm: '@amplication/plugin-storage-local'
+icon: storage-local.png
+github: https://github.com/amplication/plugins/tree/main/plugins/storage-local
+website: https://github.com/amplication/plugins/tree/main/plugins/storage-local
+type: official
+categories: [Storage]
+resourceTypes: [service]
