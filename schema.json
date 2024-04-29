@@ -43,7 +43,7 @@
         "type": "array",
         "items": {
           "type": "string",
-          "pattern": "^(Cache|CI/CD|Database|Documentation|Code styling|Static code analysis|Message broker|Service communication|Observability|AI|Security|Secret management|AWS|GCP|API|Logging|Kubernetes|Authentication|DevEx)$"
+          "pattern": "^(Cache|CI/CD|Database|Documentation|Code styling|Static code analysis|Message broker|Service communication|Observability|AI|Security|Secret management|AWS|GCP|API|Logging|Kubernetes|Authentication|DevEx|Storage)$"
         }
       },
       "resourceTypes": {
