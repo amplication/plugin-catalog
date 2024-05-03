@@ -7,5 +7,6 @@ icon: db-mongo.png
 github: https://github.com/amplication/plugins/tree/master/plugins/db-mongo
 website: https://github.com/amplication/plugins/tree/master/plugins/db-mongo
 type: official
+generator: [generator-nodejs-nest]
 categories: [Database]
 resourceTypes: [service]

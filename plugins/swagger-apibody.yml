@@ -7,5 +7,6 @@ icon: swagger-apibody.png
 github: https://github.com/amplication/plugins/tree/main/plugins/swagger-apibody
 website: https://github.com/amplication/plugins/tree/main/plugins/swagger-apibody
 type: official
+generator: [generator-nodejs-nest]
 categories: [Documentation]
 resourceTypes: [service]

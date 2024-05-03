@@ -7,5 +7,6 @@ icon: provisioning-terraform-aws-deployment-ecs.png
 github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-deployment-ecs
 website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-deployment-ecs
 type: official
+generator: [generator-nodejs-nest,generator-dotnet-webapi]
 categories: [CI/CD, AWS]
 resourceTypes: [service]

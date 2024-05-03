@@ -7,5 +7,6 @@ icon: formatter-prettier.png
 github: https://github.com/amplication/plugins/tree/main/plugins/formatter-prettier
 website: https://github.com/amplication/plugins/tree/main/plugins/formatter-prettier
 type: official
+generator: [generator-nodejs-nest]
 categories: [Code styling]
 resourceTypes: [service]

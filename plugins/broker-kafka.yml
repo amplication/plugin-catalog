@@ -7,5 +7,6 @@ icon: kafka.png
 github: https://github.com/amplication/plugins/tree/master/plugins/broker-kafka
 website: https://github.com/amplication/plugins/tree/master/plugins/broker-kafka
 type: official
+generator: [generator-nodejs-nest]
 categories: [Service communication, Message broker]
 resourceTypes: [service]

@@ -7,5 +7,6 @@ icon: linter-eslint.png
 github: https://github.com/amplication/plugins/tree/master/plugins/linter-eslint
 website: https://github.com/amplication/plugins/tree/master/plugins/linter-eslint
 type: official
+generator: [generator-nodejs-nest]
 categories: [Code styling, Static code analysis]
 resourceTypes: [service]

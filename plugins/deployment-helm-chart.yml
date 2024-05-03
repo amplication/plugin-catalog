@@ -7,5 +7,6 @@ icon: deployment-helm-chart.png
 github: https://github.com/amplication/plugins/tree/main/plugins/deployment-helm-chart
 website: https://github.com/amplication/plugins/tree/main/plugins/deployment-helm-chart
 type: official
+generator: [generator-nodejs-nest,generator-dotnet-webapi]
 categories: [CI/CD, Kubernetes]
 resourceTypes: [service]

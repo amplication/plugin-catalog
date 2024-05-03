@@ -7,5 +7,6 @@ icon: deployment-github-actions-aws-ecs.png
 github: https://github.com/amplication/plugins/tree/master/plugins/deployment-github-actions-aws-ecs
 website: https://github.com/amplication/plugins/tree/master/plugins/deployment-github-actions-aws-ecs
 type: official
+generator: [generator-nodejs-nest,generator-dotnet-webapi]
 categories: [CI/CD, AWS]
 resourceTypes: [service]

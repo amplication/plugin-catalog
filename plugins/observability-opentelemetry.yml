@@ -7,5 +7,6 @@ icon: observability-opentelemetry.png
 github: https://github.com/amplication/plugins/tree/master/plugins/observability-opentelemetry
 website: https://github.com/amplication/plugins/tree/master/plugins/observability-opentelemetry
 type: official
+generator: [generator-nodejs-nest]
 categories: [Observability]
 resourceTypes: [service]

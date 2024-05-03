@@ -7,5 +7,6 @@ icon: db-postgres.png
 github: https://github.com/amplication/plugins/tree/master/plugins/db-postgres
 website: https://github.com/amplication/plugins/tree/master/plugins/db-postgres
 type: official
+generator: [generator-nodejs-nest]
 categories: [Database]
 resourceTypes: [service]

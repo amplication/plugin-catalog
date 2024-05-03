@@ -7,5 +7,6 @@ icon: transport-grpc.png
 github: https://github.com/amplication/plugins/tree/main/plugins/transport-grpc
 website: https://github.com/amplication/plugins/tree/main/plugins/transport-grpc
 type: official
+generator: [generator-nodejs-nest]
 categories: [Service communication, API]
 resourceTypes: [service]

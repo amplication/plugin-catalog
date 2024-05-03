@@ -7,5 +7,6 @@ icon: auth-keycloak.png
 github: https://github.com/amplication/plugins/tree/main/plugins/auth-keycloak
 website: https://github.com/amplication/plugins/tree/main/plugins/auth-keycloak
 type: official
+generator: [generator-nodejs-nest]
 categories: [Authentication, Security]
 resourceTypes: [service]

@@ -7,5 +7,6 @@ icon: auth-saml.png
 github: https://github.com/amplication/plugins/tree/main/plugins/auth-saml
 website: https://github.com/amplication/plugins/tree/main/plugins/auth-saml
 type: official
+generator: [generator-nodejs-nest]
 categories: [Authentication, Security]
 resourceTypes: [service]

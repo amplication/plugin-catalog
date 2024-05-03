@@ -7,5 +7,6 @@ icon: auth-jwt.png
 github: https://github.com/amplication/plugins/tree/main/plugins/auth-jwt
 website: https://github.com/amplication/plugins/tree/main/plugins/auth-jwt
 type: official
+generator: [generator-nodejs-nest]
 categories: [Authentication, Security]
 resourceTypes: [service]

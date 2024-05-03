@@ -7,5 +7,6 @@ icon: integration-openai.png
 github: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
 website: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
 type: official
+generator: [generator-nodejs-nest]
 categories: [AI]
 resourceTypes: [service]
