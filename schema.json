@@ -42,7 +42,7 @@
       "generator": {
         "type": "array",
         "items": {
-          "pattern": "^(generator-.*)$"
+          "pattern": "^((generator-.*)|data-service-generator)$"
         }
       },
       "categories": {
