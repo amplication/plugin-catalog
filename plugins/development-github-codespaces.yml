@@ -7,6 +7,6 @@ icon: development-github-codespaces.png
 github: https://github.com/amplication/plugins/tree/main/plugins/devcontainer-github-codespaces
 website: https://github.com/amplication/plugins/tree/main/plugins/devcontainer-github-codespaces
 type: official
-generator: [generator-nodejs-nest]
+generator: [data-service-generator]
 categories: [DevEx]
 resourceTypes: [service]

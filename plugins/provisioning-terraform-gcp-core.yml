@@ -7,6 +7,6 @@ icon: provisioning-terraform-gcp-core.png
 github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-core
 website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-core
 type: official
-generator: [generator-nodejs-nest,generator-dotnet-webapi]
+generator: [data-service-generator,generator-dotnet-webapi]
 categories: [CI/CD, GCP]
 resourceTypes: [service]

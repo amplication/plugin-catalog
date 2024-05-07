@@ -7,6 +7,6 @@ icon: auth-core.png
 github: https://github.com/amplication/plugins/tree/master/plugins/auth-core
 website: https://github.com/amplication/plugins/tree/master/plugins/auth-core
 type: official
-generator: [generator-nodejs-nest]
+generator: [data-service-generator]
 categories: [Authentication, Security]
 resourceTypes: [service]

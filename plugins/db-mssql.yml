@@ -7,6 +7,6 @@ icon: db-mssql.png
 github: https://github.com/amplication/plugins/tree/master/plugins/db-sqlserver
 website: https://github.com/amplication/plugins/tree/master/plugins/db-sqlserver
 type: official
-generator: [generator-nodejs-nest]
+generator: [data-service-generator]
 categories: [Database]
 resourceTypes: [service]

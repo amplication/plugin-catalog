@@ -7,6 +7,6 @@ icon: provisioning-terraform-aws-repository-ecr.png
 github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-repository-ecr
 website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-repository-ecr
 type: official
-generator: [generator-nodejs-nest,generator-dotnet-webapi]
+generator: [data-service-generator,generator-dotnet-webapi]
 categories: [CI/CD, AWS]
 resourceTypes: [service]

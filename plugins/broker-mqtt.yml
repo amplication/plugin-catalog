@@ -7,6 +7,6 @@ icon: broker-mqtt.png
 github: https://github.com/amplication/plugins/tree/master/plugins/broker-mqtt
 website: https://github.com/amplication/plugins/tree/master/plugins/broker-mqtt
 type: official
-generator: [generator-nodejs-nest]
+generator: [data-service-generator]
 categories: [Service communication, Message broker]
 resourceTypes: [service]
