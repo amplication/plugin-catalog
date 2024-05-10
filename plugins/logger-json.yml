@@ -7,5 +7,6 @@ icon: logger-json.png
 github: https://github.com/amplication/plugins/tree/main/plugins/logger-json
 website: https://github.com/amplication/plugins/tree/main/plugins/logger-json
 type: official
+generator: [data-service-generator]
 categories: [Logging]
 resourceTypes: [service]

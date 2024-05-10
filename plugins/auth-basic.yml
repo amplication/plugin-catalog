@@ -7,5 +7,6 @@ icon: auth-basic.png
 github: https://github.com/amplication/plugins/tree/main/plugins/auth-basic
 website: https://github.com/amplication/plugins/tree/main/plugins/auth-basic
 type: official
+generator: [data-service-generator]
 categories: [Authentication, Security]
 resourceTypes: [service]

@@ -7,5 +7,6 @@ icon: cache-redis.png
 github: https://github.com/amplication/plugins/tree/master/plugins/cache-redis
 website: https://github.com/amplication/plugins/tree/master/plugins/cache-redis#readme
 type: official
+generator: [data-service-generator]
 categories: [Cache]
 resourceTypes: [service]

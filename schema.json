@@ -39,6 +39,12 @@
         "type": "string",
         "pattern": "^(community|official)$"
       },
+      "generator": {
+        "type": "array",
+        "items": {
+          "pattern": "^((generator-.*)|data-service-generator)$"
+        }
+      },
       "categories": {
         "type": "array",
         "items": {
@@ -64,6 +70,7 @@
       "github",
       "website",
       "type",
+      "generator",
       "categories",
       "resourceTypes"
     ]

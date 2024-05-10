@@ -7,5 +7,6 @@ icon: integration-openai.png
 github: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
 website: https://github.com/amplication/plugins/tree/master/plugins/integration-openai
 type: official
+generator: [data-service-generator]
 categories: [AI]
 resourceTypes: [service]

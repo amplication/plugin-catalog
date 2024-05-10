@@ -7,5 +7,6 @@ icon: db-mysql.png
 github: https://github.com/amplication/plugins/tree/master/plugins/db-mysql
 website: https://github.com/amplication/plugins/tree/master/plugins/db-mysql
 type: official
+generator: [data-service-generator]
 categories: [Database]
 resourceTypes: [service]

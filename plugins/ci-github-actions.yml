@@ -7,5 +7,6 @@ icon: ci-github-actions.png
 github: https://github.com/amplication/plugins/tree/main/plugins/ci-github-actions
 website: https://github.com/amplication/plugins/tree/main/plugins/ci-github-actions
 type: official
+generator: [data-service-generator]
 categories: [CI/CD]
 resourceTypes: [service]

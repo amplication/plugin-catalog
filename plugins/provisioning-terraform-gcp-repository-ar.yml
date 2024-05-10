@@ -7,5 +7,6 @@ icon: provisioning-terraform-gcp-repository-ar.png
 github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-repository-ar
 website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-repository-ar
 type: official
+generator: [data-service-generator,generator-dotnet-webapi]
 categories: [CI/CD, GCP]
 resourceTypes: [service]
