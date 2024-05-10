@@ -7,5 +7,6 @@ icon: broker-redis.png
 github: https://github.com/amplication/plugins/tree/master/plugins/broker-redis
 website: https://github.com/amplication/plugins/tree/master/plugins/broker-redis
 type: official
+generator: [data-service-generator]
 categories: [Service communication, Message broker]
 resourceTypes: [service]

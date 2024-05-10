@@ -7,5 +7,6 @@ icon: provisioning-terraform-gcp-database-csql.png
 github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-database-csql
 website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-gcp-database-csql
 type: official
+generator: [data-service-generator,generator-dotnet-webapi]
 categories: [CI/CD, GCP, Database]
 resourceTypes: [service]

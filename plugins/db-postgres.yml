@@ -7,5 +7,6 @@ icon: db-postgres.png
 github: https://github.com/amplication/plugins/tree/master/plugins/db-postgres
 website: https://github.com/amplication/plugins/tree/master/plugins/db-postgres
 type: official
+generator: [data-service-generator]
 categories: [Database]
 resourceTypes: [service]

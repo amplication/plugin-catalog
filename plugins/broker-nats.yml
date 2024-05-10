@@ -7,5 +7,6 @@ icon: broker-nats.png
 github: https://github.com/amplication/plugins/tree/master/plugins/broker-nats
 website: https://github.com/amplication/plugins/tree/master/plugins/broker-nats
 type: official
+generator: [data-service-generator]
 categories: [Service communication, Message broker]
 resourceTypes: [service]

@@ -7,5 +7,6 @@ icon: auth-supertokens.png
 github: https://github.com/amplication/plugins/tree/main/plugins/auth-supertokens
 website: https://github.com/amplication/plugins/tree/main/plugins/auth-supertokens
 type: official
+generator: [data-service-generator]
 categories: [Authentication, Security]
 resourceTypes: [service]

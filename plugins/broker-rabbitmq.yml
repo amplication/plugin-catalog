@@ -7,5 +7,6 @@ icon: broker-rabbitmq.png
 github: https://github.com/amplication/plugins/tree/master/plugins/broker-rabbitmq
 website: https://github.com/amplication/plugins/tree/master/plugins/broker-rabbitmq
 type: official
+generator: [data-service-generator]
 categories: [Service communication, Message broker]
 resourceTypes: [service]

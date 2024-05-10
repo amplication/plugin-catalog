@@ -7,5 +7,6 @@ icon: transport-https.png
 github: https://github.com/amplication/plugins/tree/main/plugins/transport-https
 website: https://github.com/amplication/plugins/tree/main/plugins/transport-https
 type: official
+generator: [data-service-generator]
 categories: [Service communication, API]
 resourceTypes: [service]

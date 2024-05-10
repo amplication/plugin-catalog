@@ -7,5 +7,6 @@ icon: provisioning-terraform-aws-database-rds.png
 github: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-database-rds
 website: https://github.com/amplication/plugins/tree/master/plugins/provisioning-terraform-aws-database-rds
 type: official
+generator: [data-service-generator,generator-dotnet-webapi]
 categories: [CI/CD, AWS, Database]
 resourceTypes: [service]
