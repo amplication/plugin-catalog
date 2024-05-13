@@ -1,0 +1,11 @@
+id: storage-core
+name: Storage Core
+description: Add the core functionality for file upload/download to your service. This plugin must be installed with one of the Storage Provider plugins.
+repo: amplication/plugins
+npm: '@amplication/plugin-storage-core'
+icon: storage-core.png
+github: https://github.com/amplication/plugins/tree/main/plugins/storage-core
+website: https://github.com/amplication/plugins/tree/main/plugins/storage-core
+type: official
+categories: [Storage]
+resourceTypes: [service]
