@@ -7,5 +7,6 @@ icon: storage-core.png
 github: https://github.com/amplication/plugins/tree/main/plugins/storage-core
 website: https://github.com/amplication/plugins/tree/main/plugins/storage-core
 type: official
+generator: [data-service-generator]
 categories: [Storage]
 resourceTypes: [service]
