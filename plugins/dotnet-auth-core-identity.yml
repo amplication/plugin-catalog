@@ -8,5 +8,5 @@ github: https://github.com/amplication/plugins/tree/master/plugins/dotnet-auth-c
 website: https://github.com/amplication/plugins/tree/master/plugins/dotnet-auth-core-identity
 type: official
 generator: [generator-dotnet-webapi]
-categories: [Database]
+categories: [Authentication, Security]
 resourceTypes: [service]
