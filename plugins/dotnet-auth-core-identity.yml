@@ -1,0 +1,12 @@
+id: dotnet-auth-core-identity
+name: Authentication core identity for .NET
+description: Add Authentication and Authorization to your .NET Services
+repo: https://github.com/amplication/plugins/tree/master/plugins/dotnet-auth-core-identity
+npm: '@amplication/plugin-dotnet-auth-core-identity'
+icon: auth-core.png
+github: https://github.com/amplication/plugins/tree/master/plugins/dotnet-auth-core-identity
+website: https://github.com/amplication/plugins/tree/master/plugins/dotnet-auth-core-identity
+type: official
+generator: [generator-dotnet-webapi]
+categories: [Database]
+resourceTypes: [service]
