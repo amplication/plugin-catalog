@@ -1,5 +1,5 @@
 id: dotnet-auth-core-identity
-name: Authentication core identity for .NET
+name: Authentication and Authorization using ASP.NET Core Identity 
 description: Add Authentication and Authorization to your .NET Services
 repo: https://github.com/amplication/plugins/tree/master/plugins/dotnet-auth-core-identity
 npm: '@amplication/plugin-dotnet-auth-core-identity'
