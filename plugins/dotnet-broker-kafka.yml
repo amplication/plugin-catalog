@@ -1,0 +1,12 @@
+id: dotnet-broker-kafka
+name: Kafka
+description: Use a Kafka message broker to communicate between your services
+repo: https://github.com/amplication/plugins/tree/master/plugins/dotnet-broker-kafka
+npm: '@amplication/plugin-dotnet-broker-kafka'
+icon: kafka.png
+github: https://github.com/amplication/plugins/tree/master/plugins/dotnet-broker-kafka
+website: https://github.com/amplication/plugins/tree/master/plugins/dotnet-broker-kafka
+type: official
+generator: [generator-dotnet-webapi]
+categories: [Service communication, Message broker]
+resourceTypes: [service]
