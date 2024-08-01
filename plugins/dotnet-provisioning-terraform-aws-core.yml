@@ -1,0 +1,12 @@
+id: dotnet provisioning-terraform-aws-core
+name: Terraform - AWS Core
+description: Adds terraform code for provisioning Amazon Web Services core network infrastructure
+repo: https://github.com/amplication/plugins/tree/master/plugins/dotnet-provisioning-terraform-aws-core
+npm: "@amplication/plugin-dotnet-provisioning-terraform-aws-core"
+icon: provisioning-terraform-aws-core.png
+github: https://github.com/amplication/plugins/tree/master/plugins/dotnet-provisioning-terraform-aws-core
+website: https://github.com/amplication/plugins/tree/master/plugins/dotnet-provisioning-terraform-aws-core
+type: official
+generator: [generator-dotnet-webapi]
+categories: [CI/CD, AWS]
+resourceTypes: [service]
