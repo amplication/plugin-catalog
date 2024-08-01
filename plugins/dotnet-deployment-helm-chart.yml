@@ -3,7 +3,7 @@ name: Helm Chart
 description: Adds a Helm Chart for the generated service which can be used for deployment of the application within a Kubernetes cluster
 repo: https://github.com/amplication/plugins/tree/master/plugins/dotnet-deployment-helm-chart
 npm: '@amplication/plugin-dotnet-deployment-helm-chart'
-icon: auth-core.png
+icon: deployment-helm-chart.png
 github: https://github.com/amplication/plugins/tree/master/plugins/dotnet-deployment-helm-chart
 website: https://github.com/amplication/plugins/tree/master/plugins/dotnet-deployment-helm-chart
 type: official
