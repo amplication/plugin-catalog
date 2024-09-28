@@ -1,0 +1,12 @@
+id: backstage-catalog-entity
+name: Backstage Catalog Entity
+description: Backstage catalog entity representing a service definition, including metadata and ownership details for efficient discovery and management.
+repo: https://github.com/amplication/plugins/tree/master/plugins/backstage-catalog-entity
+npm: '@amplication/plugin-backstage-catalog-entity'
+icon: backstage-catalog-entity.png
+github: https://github.com/amplication/plugins/tree/master/plugins/backstage-catalog-entity
+website: https://github.com/amplication/plugins/tree/master/plugins/backstage-catalog-entity
+type: official
+generator: [data-service-generator]
+categories: [Management]
+resourceTypes: [service]
